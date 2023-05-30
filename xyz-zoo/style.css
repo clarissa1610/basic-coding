@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(233, 134, 22)
+}
+h1 { 
+    @import url('https://fonts.googleapis.com/css2?family=Chewy&family=Titan+One&display=swap');
+    font-size: 50px;
+    color: rgb(110, 55, 15);
+    font-family: 'Titan One', cursive;
+}
+h2 {
+    @import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+    font-size: 30px;
+    color: #5f0f40;
+    font-family: 'Chewy', cursive;
+}
+h3 {
+    @import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+    font-size: 20px;
+    color: #9a031e;
+    font-family: 'Chewy', cursive;
+}
