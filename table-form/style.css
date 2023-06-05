@@ -1,20 +1,16 @@
 body {
-    background-color:#ccffff
+    background-color:#ccffcc
 }
 h2 { 
     @import url('https://fonts.googleapis.com/css2?family=Chewy&family=Titan+One&family=Zen+Kaku+Gothic+Antique:wght@900&display=swap');
     font-size: 40px;
-    color:#6699CC;
+    color:#112A46;
     font-family: 'Zen Kaku Gothic Antique', sans-serif;
-}
-table.container {
-    background-color: #9accff;
-    border-radius: 40px
 }
 h3 {
     @import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
     font-size: 30px;
-    color: #6699CC;
+    color:#112A46;
     font-family: 'Chewy', cursive;
 }
 th {
