@@ -15,11 +15,11 @@ h3 {
 }
 th {
     @import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
-    color: blue;
+    color: #185B15;
     font-family: 'Shippori Antique', sans-serif;
 }
 td {
     @import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
-    color: blueviolet;
+    color: #185B15;
     font-family: 'Shippori Antique', sans-serif;
 }
