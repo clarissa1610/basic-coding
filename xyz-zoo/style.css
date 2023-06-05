@@ -6,6 +6,10 @@ h1 {
     font-size: 50px;
     color: rgb(110, 55, 15);
     font-family: 'Titan One', cursive;
+    text-align: center;
+    background-position: 0%;
+    background-color: white;
+
 }
 h2 {
     @import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
