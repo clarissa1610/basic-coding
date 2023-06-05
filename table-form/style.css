@@ -10,12 +10,12 @@ h2 {
 h3 {
     @import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
     font-size: 30px;
-    color: #5f0f40;
+    color: #6699CC;
     font-family: 'Chewy', cursive;
 }
 th {
     @import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
-    color: #000080;
+    color: blue;
     font-family: 'Shippori Antique', sans-serif;
 }
 td {
