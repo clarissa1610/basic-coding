@@ -1,0 +1,43 @@
+body {
+    background-color: bisque;
+}
+.top {
+    background-color: #f6834f;
+    padding: 15px;
+}
+h1, h2 {
+    color: #5c4440;
+}
+#select ul li {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+    font-size: 20px;
+    font-family:'Roboto Condensed', sans-serif; ;
+}
+.table-form {
+    background-color: #5c4440;
+    display: block;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.xyz-zoo {
+    background-color: #5c4440;
+    display: block;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+a:link {
+    color: #f6834f;
+}
+a:visited {
+    color: #f6834f;
+}
